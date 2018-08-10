@@ -22,7 +22,11 @@ function iLoveTheBeatles(number){
   var iLoveTheBeatlesArray = []
 
   do {
+<<<<<<< HEAD
     iLoveTheBeatlesArray.push('I love the Beatles!')
+=======
+    iLoveTheBeatlesArray.push('I Love the Beatles')
+>>>>>>> de41c37669e9448a34f6eaa8cd44bcc3403cdc00
     number++
   } while (number < 15);
 
